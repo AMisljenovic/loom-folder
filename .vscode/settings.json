@@ -1,0 +1,6 @@
+{
+    "loom.provider": "openai",
+    "loom.openai.model": "gpt-5.4",
+    "loom.openai.baseUrl": "https://wasser-pollock.services.ai.azure.com/openai/v1",
+    "loom.openai.reasoningEffort": ""
+}

@@ -1,0 +1,12 @@
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\bin\Debug\net10.0\MyConsoleApp.Core.deps.json
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\bin\Debug\net10.0\MyConsoleApp.Core.dll
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\bin\Debug\net10.0\MyConsoleApp.Core.pdb
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.AssemblyInfoInputs.cache
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.AssemblyInfo.cs
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.csproj.CoreCompileInputs.cache
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.sourcelink.json
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.dll
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\refint\MyConsoleApp.Core.dll
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\MyConsoleApp.Core.pdb
+c:\Users\PC\Downloads\loom-folder\MyConsoleApp.Core\obj\Debug\net10.0\ref\MyConsoleApp.Core.dll
